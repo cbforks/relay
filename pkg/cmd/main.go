@@ -76,6 +76,7 @@ Use the 'workflow' subcommand to interact with workflows:
 
 	cmd.AddCommand(newAuthCommand())
 	cmd.AddCommand(newWorkflowCommand())
+	cmd.AddCommand(newIntegrationCommand())
 
 	return cmd
 }
