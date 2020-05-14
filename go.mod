@@ -5,6 +5,8 @@ go 1.14
 require (
 	github.com/Masterminds/sprig/v3 v3.0.0
 	github.com/fatih/color v1.9.0
+	github.com/go-git/go-billy/v5 v5.0.0
+	github.com/go-git/go-git/v5 v5.0.0
 	github.com/go-swagger/go-swagger v0.23.0
 	github.com/go-yaml/yaml v2.1.0+incompatible
 	github.com/imdario/mergo v0.3.8
